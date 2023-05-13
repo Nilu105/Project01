@@ -1,0 +1,97 @@
+.body {
+    margin: 0;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+    
+}
+.collaborate {
+    text-align: left;
+    padding: 3% 18%
+}
+
+.collaborate h4 {
+    font-weight: bolder
+}
+.collaborate {
+    padding: 1% 0%
+}
+
+.serviceImage {
+    width: 95%;
+    height: 90%;
+    object-fit: cover
+}
+
+.servicesMainDiv {
+    padding: 3% 18%;
+    text-align: left;
+    font-family: serif
+}
+
+.servicesH3 {
+    margin-bottom: 1%;
+    padding: 1% 0 10%
+}
+
+.servicesH3 h3 {
+    font-weight: lighter
+}
+.servicesH2 h2 {
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 400%;
+    
+}
+.servicesH2 h2 {
+    font-size: 300%;
+    -webkit-transform: scaleY(1.1);
+    transform: scaleY(1.05)
+}
+
+.serviceImage {
+    height: 100%;
+    width: 88%
+}
+
+.servicesH3 {
+    padding-bottom: 3%
+}
+
+.servicesH3 h3 {
+    font-weight: 500;
+    font-style: normal
+}
+
+.servicesH3 h3,.servicesP p {
+    font-size: 1.3rem
+}
+
+.servicesP p {
+    display: inline-block;
+    font-weight: bolder;
+    font-size: 1.2rem
+}
+
+.servicesP p:hover {
+    color: #555151
+}
+
+.servicesP p:hover+img {
+    position: relative;
+    
+}
+
+.servicesP a {
+    color: #2803fa
+}
+
+.servicesP img {
+    width: 25px;
+    margin-left: 20px
+}
+.col
+{
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
